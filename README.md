@@ -1,4 +1,4 @@
-## Hi there 👋
+## The purpose of this repository is to store my school projects.
 
 <!--
 **nathanielgull/nathanielgull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
